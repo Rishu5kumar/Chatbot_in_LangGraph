@@ -1,0 +1,14 @@
+langgraph
+langchain
+python-dotenv
+huggingface-hub
+huggingface-huggingface
+transformers
+langchain-google-genai
+google-generativeai
+streamlit
+langgraph-checkpoint-sqlite
+langchain-community
+ddgs
+langchain-mcp-adapters
+fastmcp
